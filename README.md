@@ -90,12 +90,3 @@ Analyze the impact of Stress Levels on Productivity Scores.
 Identify trends in Step Count and Heart Rate across different Departments.
 
 Correlate Sleep Hours with overall employee engagement and login activity.
-
-Generated for the Employee Analysis Project.
-
-
-
-
-
-Gemini is AI and can make mistakes.
-
